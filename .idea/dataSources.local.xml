@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails PlanoSyndication: production" uuid="53fe3484-68b6-4530-be7a-a798bb5031d6">
+      <first-sync>true</first-sync>
+      <user-name>planomatic_syndication</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffadfe6dfebdfe4dfe5dfe7dfebdffedfe3dfe9dff5dff9dff3dfe4dfeedfe3dfe9dfebdffedfe3dfe5dfe4dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+    <data-source name="Rails PlanoSyndication: development" uuid="9957d84f-ab77-44ac-835a-460c7fc75d79">
+      <user-name>root</user-name>
+      <schema-pattern>planomatic_syndication_development.*</schema-pattern>
+      <default-schemas>planomatic_syndication_development.*</default-schemas>
+    </data-source>
+    <data-source name="Rails PlanoSyndication: test" uuid="0b60d0b8-6a1a-4338-b489-bfe84f37c5ef">
+      <user-name>root</user-name>
+      <schema-pattern>planomatic_syndication_test.*</schema-pattern>
+      <default-schemas>planomatic_syndication_test.*</default-schemas>
+    </data-source>
+  </component>
+</project>
